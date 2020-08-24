@@ -434,3 +434,9 @@ p {
     color: #808080;
 
 }
+
+@media (max-width:1200px) {
+    .intro__title{
+        font-size: 40px;
+    }
+}
